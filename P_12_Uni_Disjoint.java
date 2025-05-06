@@ -1,7 +1,6 @@
 package P_01_basics;
 
-i
-mport io.smallrye.mutiny.Uni;
+import io.smallrye.mutiny.Uni;
 
 import java.util.List;
 
